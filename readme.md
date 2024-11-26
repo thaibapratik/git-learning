@@ -1,4 +1,4 @@
-Hello, Git!
+Hello Everyone, Welcome to learning-git
 
-this is modification for `feature-branch`
-this is modifcation for `fearure-branch` to use `pull` command
+- Feature1
+- This is modification for `feature-branch`
