@@ -1,4 +1,5 @@
-Hello, Git!
+Heyyy everyone this is me john 
 
-this is modification for `feature-branch`
-this is modifcation for `fearure-branch` to use `pull` command
+- Feature2
+- this is modification for `feature-branch`
+
