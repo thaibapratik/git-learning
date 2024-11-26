@@ -1,5 +1,6 @@
-Heyyy everyone this is me john 
+Hello Everyone, Welcome to learning-git
 
+- Feature1
 - Feature2
-- this is modification for `feature-branch`
+- This is modification for `feature-branch`
 
